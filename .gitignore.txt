@@ -1,0 +1,16 @@
+# Systèmes
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environnement local
+.env
+*.pyc
+__pycache__/
+
+# Archives et fichiers temporaires
+*.zip
+*.tmp
+*.bak
