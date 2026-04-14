@@ -4,8 +4,8 @@
 
 Ce projet contient une compétence (`skill`) permettant de générer des textes en français avec :
 
-- typographie correcte,
-- style académique et fluide,
+- typographie correcte
+- style académique et fluide
 - structure adaptée aux rapports institutionnels, mémoires ou documents administratifs.
 
 La compétence est conçue pour produire un texte ressemblant à une rédaction humaine réalisée dans Microsoft Word.
